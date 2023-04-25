@@ -1,13 +1,20 @@
-# Sample Hardhat Project
+# Perfrom front-running attack 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Technology Stack & Dependencies
 
-Try running some of the following tasks:
+- Solidity (Writing Smart Contract)
+- Javascript (Game interaction)
+- [NodeJS](https://nodejs.org/en/) To create hardhat project and install dependencies using npm
 
-```shell
-npx hardhat help
+
+### 1. Clone/Download the Repository
+
+### 2. Install Dependencies:
+```
+npm install
+```
+
+### 3. Perfrom the attack by running the test
+```
 npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
