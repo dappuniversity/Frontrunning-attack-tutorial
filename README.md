@@ -1,4 +1,4 @@
-# Perfrom front-running attack 
+# Perform Front-Running attack
 
 ## Technology Stack & Dependencies
 
